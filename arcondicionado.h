@@ -1,0 +1,6 @@
+#ifndef ARCONDICIONADO_H_INCLUDED
+#define ARCONDICIONADO_H_INCLUDED
+
+struct Arcondicionado {};
+
+#endif // ARCONDICIONADO_H_INCLUDED
